@@ -10,7 +10,7 @@ Project Name : Gender Identification and Sentiment Analysis on Twitter through m
 
 Website: http://115.146.89.193:3009/
 YouTube: https://youtu.be/SSFw2UIRwj8
-Souce Codes: https://github.com/wppaul/gender_project
+Souce Codes: https://github.com/mingyu46/Gender_Identification_Project
 
 *************** System requirement ***************
 Ubuntu: version":"15.10"
